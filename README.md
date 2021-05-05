@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dennerstorres
+- 👋 Hi, I’m Denner Torres
 - 👀 I’m interested in work with reactjs, react-native and nodejs
 - 🌱 I’m currently learnig more about reactjs and nodejs
 - 💞️ I’m looking to collaborate on react projects
