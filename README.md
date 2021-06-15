@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Denner Torres
-- 👀 I’m interested in work with reactjs, react-native and nodejs
-- 🌱 I’m currently learnig more about reactjs and nodejs
+- 👀 I’m interested in work with flutter, reactjs, react-native and nodejs
+- 🌱 I’m currently learnig more about flutter
 - 💞️ I’m looking to collaborate on react projects
 - 📫 You can reach me on dennerstorres@icloud.com
 - https://www.linkedin.com/in/denner-torres-a75676b5/
