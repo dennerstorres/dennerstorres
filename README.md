@@ -32,7 +32,7 @@ Sou um desenvolvedor Full Stack apaixonado por criar soluções inovadoras e exp
 
 - 🎮 [Towers](https://github.com/dennerstorres/towers) - Jogo de Tower Defense em JavaScript
 - 🌐 [Floating Browser](https://github.com/dennerstorres/floatingbrowser) - Navegador flutuante
-- 📱 [ws-ltasulbet](https://github.com/dennerstorres/ws-ltasulbet) - Projeto em TypeScript
+- 📱 [ws-ltasulbet](https://github.com/dennerstorres/ws-ltasulbet) - API para app LTA Sul Bet
 - ✅ [DoIt](https://github.com/dennerstorres/doIt) - Aplicativo de gerenciamento de tarefas
 
 ## 📫 Contato
